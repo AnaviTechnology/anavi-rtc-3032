@@ -109,6 +109,7 @@
 		(property "Value" "MountingHole_2.2mm_M2_DIN965_Pad"
 			(at 0 2.85 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "94d31fda-6398-41ee-9071-43f0357e5b1a")
 			(effects
 				(font
@@ -215,8 +216,8 @@
 				)
 			)
 		)
-		(property "Value" "2.2 kΩ"
-			(at 0 1.43 90)
+		(property "Value" "4.7k"
+			(at 0.05 -1.375 90)
 			(layer "F.Fab")
 			(uuid "4876d980-8c9a-468f-99a5-accc38c4a666")
 			(effects
@@ -377,6 +378,7 @@
 		(property "Value" "MountingHole_2.2mm_M2_DIN965_Pad"
 			(at 0 2.85 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a19a770f-bb1c-49d3-b696-718e8a0c9e67")
 			(effects
 				(font
@@ -474,7 +476,7 @@
 		(property "Reference" "R1"
 			(at 0 -1.23 90)
 			(layer "F.SilkS")
-			(uuid "85025c04-fde1-495f-a709-c3930bf82570")
+			(uuid "1f2261cb-5fa1-48c3-bbf8-2633f309d7b9")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -486,7 +488,7 @@
 		(property "Value" "10k"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "6b449ff6-62a9-4c8b-8d32-f88bf758623e")
+			(uuid "ff9f89fa-6fd0-467c-bc69-2c55eaee5b0e")
 			(effects
 				(font
 					(size 1 1)
@@ -498,7 +500,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "576db489-b359-44cb-88c4-1cac22878dba")
+			(uuid "66830870-3ad6-4a1d-ac86-369142bcc9d1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -509,7 +511,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55403984-1d8e-463c-95ed-108a320cde50")
+			(uuid "81968efd-e65b-4ba3-8dc6-8bbb2cbab994")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -830,6 +832,7 @@
 		(property "Value" "Conn_01x06_Pin"
 			(at 4.385 14.97 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1c90e79c-b3d6-40c0-b6cd-e4592fdb00bc")
 			(effects
 				(font
@@ -1433,8 +1436,8 @@
 				)
 			)
 		)
-		(property "Value" "2.2 kΩ"
-			(at 0 1.43 90)
+		(property "Value" "4.7k"
+			(at -0.025814 -1.375 90)
 			(layer "F.Fab")
 			(uuid "ad32960e-e552-4076-a445-6a85fe306903")
 			(effects
@@ -1766,6 +1769,7 @@
 			(at 0.254 0.762 180)
 			(unlocked yes)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "adc3b699-fbd0-42d7-8c77-c134cf3c3ae6")
 			(effects
 				(font

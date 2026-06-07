@@ -2727,7 +2727,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2 kΩ"
+		(property "Value" "4.7k"
 			(at 67.31 104.14 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2899,7 +2899,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2 kΩ"
+		(property "Value" "4.7k"
 			(at 74.93 103.886 90)
 			(show_name no)
 			(do_not_autoplace no)
